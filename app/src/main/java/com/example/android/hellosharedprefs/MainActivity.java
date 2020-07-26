@@ -16,11 +16,12 @@
 package com.example.android.hellosharedprefs;
 
 import android.graphics.drawable.ColorDrawable;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 /**
  * HelloSharedPrefs is an adaptation of the HelloToast app from chapter 1.
